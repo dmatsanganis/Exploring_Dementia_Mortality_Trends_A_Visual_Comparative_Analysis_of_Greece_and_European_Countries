@@ -18,3 +18,5 @@ In addition to the visual representations, in this repository we share the accom
 By perusing the code, you can gain a deeper understanding of the methodologies employed and reproduce the plots for further exploration.
 
 Citation: Eurostat data source: European Commission, Eurostat database. [Link: https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes]
+
+![Average Standardised Dementia Death Rate (2011-2020)](https://github.com/dmatsanganis/Exploring_Dementia_Mortality_Trends_A_Visual_Comparative_Analysis_of_Greece_and_European_Countries/assets/34712449/7c0e9965-f669-4b96-997a-d4cc26aff19b)
