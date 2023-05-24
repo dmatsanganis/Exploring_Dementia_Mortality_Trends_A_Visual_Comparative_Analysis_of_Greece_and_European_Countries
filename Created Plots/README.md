@@ -1,8 +1,8 @@
-# Dementia Mortality Trends - Plots
+## Dementia Mortality Trends - Plots
 
 This subfolder contains a collection of static visualizations and an animated GIF representing the findings from the analysis of dementia mortality trends in Greece and European countries. These visualizations were generated using R programming.
 
-## File Descriptions
+### File Descriptions
 
 - `Average Standardised Dementia Death Rate (2011-2020).png`: Illustrates the average standardized dementia death rate over the period of 2011 to 2020.
 - `Comparison of Dementia Death Rates between Greece, EU, and Selected Countries Scatterplot (2011-2020).png`: Presents a scatterplot comparing dementia death rates in Greece, the EU, and selected countries from 2011 to 2020.
@@ -18,11 +18,11 @@ This subfolder contains a collection of static visualizations and an animated GI
 - `Standardised Dementia Death Rate in Greece vs EU (2011-2020).png`: Compares the standardized dementia death rate between Greece and the EU from 2011 to 2020.
 - `Standardized Dementia Death Rate in Greece (2011-2020).png`: Represents the standardized dementia death rate specifically in Greece over the period of 2011 to 2020.
 
-## Usage
+### Usage
 
 Feel free to explore and utilize these visualizations to gain insights into the dementia mortality trends discussed in the accompanying analysis.
 
-## Source
+### Source
 
 The data used for the analysis and the creation of these visualizations are primarily sourced from Eurostat, the statistical office of the European Union. Please refer to the main analysis for more details.
 
