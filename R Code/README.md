@@ -6,8 +6,8 @@ The contents of this subfolder are essential for reproducing the analysis, gener
 ### File Descriptions
 
 - `dementia_analysis.R`: R script containing the code used to generate the visualizations and perform the analysis. Please refer to this script for a comprehensive understanding of the methodologies employed.
-- `eu_flag.png`: Image file representing the flag of the European Union, used in the R code or visualizations.
-- `greek_flag.png`: Image file depicting the flag of Greece, used in the R code or visualizations.
+- `eu_flag.png`: Image file representing the flag of the European Union, used in the R code and visualizations.
+- `greek_flag.png`: Image file depicting the flag of Greece, used in the R code and visualizations.
 - `hlth_cd_aro__custom_6254082_linear.csv`: Dataset file containing relevant health data used in the analysis, such as dementia mortality occurencies. This data is sourced from Eurostat.
 - `hlth_cd_asdr2__custom_6255253_linear.csv`: Dataset file comprising additional health data utilized in the analysis, such as standardized death rates. This data is also sourced from Eurostat.
 
