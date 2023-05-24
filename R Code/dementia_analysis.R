@@ -1,6 +1,5 @@
-##            Analytics Practicum II              ##
-##           Assignment 1 - Project I             ##
-##       Dimitris Matsanganis FT f2822212         ##
+##            Dementia Visual Analysis            ##
+##              Dimitris Matsanganis              ##
 ####################################################
 
 ######################## START: Import Libraries ###############################
