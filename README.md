@@ -6,6 +6,15 @@ The objective is to conduct a comprehensive analysis using R programming to asse
 in Greece and explore if Greece exhibits distinct behavior compared to the rest of Europe. 
 The resulting presentation will present a series of visually compelling plots to convey findings and insights effectively.
 
-The visualizations will be provided in a separate PowerPoint or PDF document, while the accompanying R code used to generate the plots will be shared alongside.
+To be more precise, utilizing Eurostat, the esteemed statistical office of the European Union, this analysis unravels the intricate tapestry of dementia mortality 
+trends in Greece and European countries spanning the years 2011 to 2020. With a laser focus on gender-based analysis, our objective is to conduct 
+a meticulous exploration using the power of R programming. Through this comprehensive approach, we aim to determine if there exists an escalating 
+trend in dementia mortality in Greece and ascertain whether Greece's behavior deviates from the rest of Europe.
+
+Within the enclosed PDF and PowerPoint files, you will find an assortment of captivating visualizations that vividly depict our findings and insights. 
+These visually compelling plots have been thoughtfully crafted to convey complex information in an accessible and engaging manner.
+
+In addition to the visual representations, in this repository we share the accompanying R code used to generate these captivating visuals. 
+By perusing the code, you can gain a deeper understanding of the methodologies employed and reproduce the plots for further exploration.
 
 Citation: Eurostat data source: European Commission, Eurostat database. [Link: https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes]
