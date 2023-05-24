@@ -8,4 +8,4 @@ The resulting presentation will present a series of visually compelling plots to
 
 The visualizations will be provided in a separate PowerPoint or PDF document, while the accompanying R code used to generate the plots will be shared alongside.
 
-Citation: Eurostat data source: European Commission, Eurostat database. [Link: https://ec.europa.eu/eurostat/databrowser/view/]
+Citation: Eurostat data source: European Commission, Eurostat database. [Link: https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes]
