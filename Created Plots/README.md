@@ -22,7 +22,7 @@ This subfolder contains a collection of static visualizations and an animated GI
 
 Feel free to explore and utilize these visualizations to gain insights into the dementia mortality trends discussed in the accompanying analysis.
 
-![scatterplot](https://github.com/dmatsanganis/Exploring_Dementia_Mortality_Trends_A_Visual_Comparative_Analysis_of_Greece_and_European_Countries/assets/34712449/a0849e01-281c-4fcf-8c10-9dd40b77831a)
+![scatterplot](https://github.com/dmatsanganis/Exploring_Dementia_Mortality_Trends_A_Visual_Comparative_Analysis_of_Greece_and_European_Countries/assets/34712449/405b7054-e973-41ed-814a-a8344551094e)
 
 ### Source
 
