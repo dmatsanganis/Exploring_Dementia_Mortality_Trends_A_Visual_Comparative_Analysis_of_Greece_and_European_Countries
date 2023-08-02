@@ -19,6 +19,13 @@ By perusing the code, you can gain a deeper understanding of the methodologies e
 
 An example of the created plots is the following one representing, the Average Standardised Dementia Death Rate (2011-2020).
 
-![Average Standardised Dementia Death Rate (2011-2020)](https://github.com/dmatsanganis/Exploring_Dementia_Mortality_Trends_A_Visual_Comparative_Analysis_of_Greece_and_European_Countries/assets/34712449/7c0e9965-f669-4b96-997a-d4cc26aff19b)
+![Average Standardised Dementia Death Rate (2011-2020)](https://github.com/dmatsanganis/Exploring_Dementia_Mortality_Trends_A_Visual_Comparative_Analysis_of_Greece_and_European_Countries/assets/34712449/6fa97fac-641a-4f09-9bd7-dc6ef0f4a7a1)
+
 
 Citation: Eurostat data source: European Commission, Eurostat database. [Link: https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes]
+
+### Contributors
+
+- [x] [Dimitris Matsanganis](https://github.com/dmatsanganis)
+
+[![R](https://img.shields.io/badge/R-4.1.0-blue)](https://www.r-project.org/)
